@@ -4,7 +4,7 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 
 Credit card being held in hand
 
-We'll use the Credit Card Approval dataset from the UCI Machine Learning Repository. The structure of this notebook is as follows:
+We'll use the [Credit Card Approval dataset](http://archive.ics.uci.edu/ml/datasets/credit+approval) from the UCI Machine Learning Repository. The structure of this notebook is as follows:
 
 First, we will start off by loading and viewing the dataset.
 We will see that the dataset has a mixture of both numerical and non-numerical features, that it contains values from different ranges, plus that it contains a number of missing entries.
